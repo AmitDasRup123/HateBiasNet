@@ -15,6 +15,15 @@ For a detailed investigation of annotator bias in hate speech detection, refer t
 ## Citation
 If you use this dataset in your research, please cite the following paper:
 
+@misc{das2024investigating,
+title={Investigating Annotator Bias in Large Language Models for Hate Speech Detection},
+author={Amit Das and Zheng Zhang and Fatemeh Jamshidi and Vinija Jain and Aman Chadha and Nilanjana Raychawdhary and Mary Sandage and Lauramarie Pope and Gerry Dozier and Cheryl Seals},
+year={2024},
+eprint={2406.11109},
+archivePrefix={arXiv},
+primaryClass={cs.CL}
+}
+
 
 markdown
 Copy code
@@ -31,17 +40,6 @@ The HateSpeechCorpus is a dataset collected from Twitter, consisting of 3003 twe
 ## Paper
 For a detailed investigation of annotator bias in hate speech detection, refer to the associated paper: [Investigating Annotator Bias in Large Language Models for Hate Speech Detection](https://arxiv.org/abs/2406.11109).
 
-## Citation
-If you use this dataset in your research, please cite the following paper:
-
-@misc{das2024investigating,
-title={Investigating Annotator Bias in Large Language Models for Hate Speech Detection},
-author={Amit Das and Zheng Zhang and Fatemeh Jamshidi and Vinija Jain and Aman Chadha and Nilanjana Raychawdhary and Mary Sandage and Lauramarie Pope and Gerry Dozier and Cheryl Seals},
-year={2024},
-eprint={2406.11109},
-archivePrefix={arXiv},
-primaryClass={cs.CL}
-}
 
 # Load the dataset
 df = pd.read_csv('HateSpeechCorpus.csv')
