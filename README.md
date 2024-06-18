@@ -22,7 +22,8 @@ archivePrefix={arXiv},
 primaryClass={cs.CL}
 }
 
-
+## Citation
+If you use this dataset in your research, please cite the following paper:
 # Load the dataset
 df = pd.read_csv('HateSpeechCorpus.csv')
 
@@ -30,8 +31,8 @@ df = pd.read_csv('HateSpeechCorpus.csv')
 print(df.head())
 
 
-## License
-Please ensure to comply with the appropriate terms of use for the data sourced from Twitter. 
+## License: CC BY
+
 
 ## Contact
 For any questions or feedback, feel free to contact the authors of the paper or the dataset contributors.
