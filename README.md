@@ -1,7 +1,5 @@
 # HateSpeechCorpus
 
-# HateSpeechCorpus
-
 **Source:** Twitter  
 **Length:** 3003 tweets  
 **Annotators:** Three speech-language pathology graduate students  
@@ -23,22 +21,6 @@ eprint={2406.11109},
 archivePrefix={arXiv},
 primaryClass={cs.CL}
 }
-
-
-markdown
-Copy code
-# HateSpeechCorpus
-
-**Source:** Twitter  
-**Length:** 3003 tweets  
-**Annotator:** Three speech-language pathology graduate students  
-
-## Overview
-The HateSpeechCorpus is a dataset collected from Twitter, consisting of 3003 tweets. It has been meticulously annotated by three speech-language pathology graduate students, ensuring high-quality labeling of hate speech. This dataset is invaluable for researchers and practitioners working on hate speech detection and natural language processing.
-
-
-## Paper
-For a detailed investigation of annotator bias in hate speech detection, refer to the associated paper: [Investigating Annotator Bias in Large Language Models for Hate Speech Detection](https://arxiv.org/abs/2406.11109).
 
 
 # Load the dataset
