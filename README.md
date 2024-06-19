@@ -22,8 +22,6 @@ archivePrefix={arXiv},
 primaryClass={cs.CL}
 }
 
-## Citation
-If you use this dataset in your research, please cite the following paper:
 # Load the dataset
 df = pd.read_csv('HateSpeechCorpus.csv')
 
