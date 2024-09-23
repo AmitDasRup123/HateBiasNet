@@ -1,7 +1,7 @@
 # HatSpeDat
 
 ## Overview
-The HateSpeechCorpus is a dataset collected from Twitter, consisting of 3003 tweets. It has been meticulously annotated by three speech-language pathology graduate students, ensuring high-quality labeling of hate speech. This dataset is invaluable for researchers and practitioners working on hate speech detection and natural language processing.
+The HatSpeDat is a dataset collected from Twitter, consisting of 3003 tweets. It has been meticulously annotated by three speech-language pathology graduate students, ensuring high-quality labeling of hate speech. This dataset is invaluable for researchers and practitioners working on hate speech detection and natural language processing.
 
 **Source:** Twitter  
 **Length:** 3003 tweets  
@@ -23,14 +23,14 @@ primaryClass={cs.CL}
 }
 
 # Load the dataset
-df = pd.read_csv('HateSpeechCorpus.csv')
+df = pd.read_csv('HatSpeDat.csv')
 
 # Display the first few rows
 print(df.head())
 
 ## License: CC BY
 
-Contact Information: azd0123@auburn.edu
+Contact Information: adas@una.edu
 ---
 
 This README provides an overview of the HateSpeechCorpus, including its source, length, annotators, keywords used for generation, and citation details. The dataset is a valuable resource for advancing the field of hate speech detection.
