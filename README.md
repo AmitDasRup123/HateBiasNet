@@ -7,31 +7,3 @@ The HateBiasNet is a dataset collected from Twitter, consisting of 3003 tweets. 
 **Length:** 3003 tweets  
 **Annotators:** Three speech-language pathology graduate students  
 
-## Paper
-For a detailed investigation of annotator bias in LLMs for hate speech detection, refer to the associated paper: [Investigating Annotator Bias in Large Language Models for Hate Speech Detection](https://arxiv.org/abs/2406.11109).
-
-## Citation
-If you use this dataset in your research, please cite the following paper:
-
-@misc{das2024investigating,
-title={Investigating Annotator Bias in Large Language Models for Hate Speech Detection},
-author={Amit Das and Zheng Zhang and Najib Hasan and Souvika Sarkar and Fatemeh Jamshidi and Vinija Jain and Aman Chadha and Nilanjana Raychawdhary and Mary Sandage and Lauramarie Pope and Gerry Dozier and Cheryl Seals},
-year={2024},
-eprint={2406.11109},
-archivePrefix={arXiv},
-primaryClass={cs.CL}
-}
-
-# Load the dataset
-df = pd.read_csv('HateBiasNet.csv')
-
-# Display the first few rows
-print(df.head())
-
-## License: CC BY
-
-Contact Information: adas@una.edu
----
-
-This README provides an overview of the HateSpeechCorpus, including its source, length, annotators, keywords used for generation, and citation details. The dataset is a valuable resource for advancing the field of hate speech detection.
-
