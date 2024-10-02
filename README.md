@@ -1,7 +1,7 @@
-# HatSpeDat
+# HateBiasNet
 
 ## Overview
-The HatSpeDat is a dataset collected from Twitter, consisting of 3003 tweets. It has been meticulously annotated by three speech-language pathology graduate students, ensuring high-quality labeling of hate speech. This dataset is invaluable for researchers and practitioners working on hate speech detection and natural language processing.
+The HateBiasNet is a dataset collected from Twitter, consisting of 3003 tweets. It has been meticulously annotated by three speech-language pathology graduate students, ensuring high-quality labeling of hate speech. This dataset is invaluable for researchers and practitioners working on hate speech detection and natural language processing.
 
 **Source:** Twitter  
 **Length:** 3003 tweets  
@@ -15,7 +15,7 @@ If you use this dataset in your research, please cite the following paper:
 
 @misc{das2024investigating,
 title={Investigating Annotator Bias in Large Language Models for Hate Speech Detection},
-author={Amit Das and Zheng Zhang and Fatemeh Jamshidi and Vinija Jain and Aman Chadha and Nilanjana Raychawdhary and Mary Sandage and Lauramarie Pope and Gerry Dozier and Cheryl Seals},
+author={Amit Das and Zheng Zhang and Najib Hasan and Souvika Sarkar and Fatemeh Jamshidi and Vinija Jain and Aman Chadha and Nilanjana Raychawdhary and Mary Sandage and Lauramarie Pope and Gerry Dozier and Cheryl Seals},
 year={2024},
 eprint={2406.11109},
 archivePrefix={arXiv},
