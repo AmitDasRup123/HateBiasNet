@@ -23,7 +23,7 @@ primaryClass={cs.CL}
 }
 
 # Load the dataset
-df = pd.read_csv('HatSpeDat.csv')
+df = pd.read_csv('HateBiasNet.csv')
 
 # Display the first few rows
 print(df.head())
